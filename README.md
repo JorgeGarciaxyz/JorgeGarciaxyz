@@ -15,7 +15,7 @@ I firmly believe in building [high-quality software](https://martinfowler.com/ar
 ### More info
 
 - 🔭 I’m currently working on @Apptegy
-- 📫 How to reach me: jorge.mgg@gmail.com
+- 📫 How to reach me: jorge.mgg94@gmail.com
 - 😄 Pronouns: he/him
 - 🌎 Location: Monterrey Mexico
 
