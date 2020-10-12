@@ -8,6 +8,7 @@ Keep improving my work is my drive;  I seek new ways to perfect my code, support
 
 I have experience in multiple areas of SaaS products, such as:
 Designing new features on green/brown projects, migrating data, optimizing endpoints, identifying bottlenecks, and addressing security issues.
+
 On the other side, I have assisted on the continuous improvement of the hiring process, worked closely with product managers, and mentoring jr devs
 
 I firmly believe in building [high-quality software](https://martinfowler.com/articles/is-quality-worth-cost.html) within reasonable schedules without burning out the team.
