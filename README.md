@@ -1,6 +1,6 @@
-### Hi there 👋
+### Howdy 👋 🤠
 
-I am a Software Engineer, I build products for the web, currently I work as a Senior Software Engineer at Fleetio.
+I build products for the web, currently working as a Senior Software Engineer at Fleetio.
 
 https://www.jorgegarcia.xyz/
 
